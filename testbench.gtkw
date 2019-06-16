@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Sun Jun 16 16:26:07 2019
+[*]
+[dumpfile] "E:\Icarus Verilog\UART Transmitter\testbench.lxt"
+[dumpfile_mtime] "Sun Jun 16 16:24:57 2019"
+[dumpfile_size] 7317
+[savefile] "E:\Icarus Verilog\UART Transmitter\testbench.gtkw"
+[timestart] 77490000
+[size] 1636 602
+[pos] -1 -1
+*-21.718958 86980000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 172
+[sst_expanded] 1
+[sst_vpaned_height] 155
+@28
+testbench.reset[0]
+testbench.txclk[0]
+@29
+testbench.parity[0]
+@22
+testbench.din[8:0]
+@28
+testbench.we[0]
+testbench.empty[0]
+testbench.sout[0]
+testbench.break[0]
+[pattern_trace] 1
+[pattern_trace] 0
